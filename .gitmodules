@@ -1,0 +1,3 @@
+[submodule "utilitybelt"]
+	path = utilitybelt
+	url = git@github.com:josephschmitt/UtilityBelt.git
